@@ -1,13 +1,10 @@
 My Custom Plugin
 Contributors: siddhirajpurohit
-Donate link: https://yourwebsite.com/donate
 Tags: custom-post-type, shortcode, admin-settings, fastapi, submissions
 Requires at least: 5.8
 Tested up to: 6.5
 Requires PHP: 7.4
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
 
 A lightweight custom plugin to handle user submissions via shortcode, store data in DB, and connect with FastAPI.
 
