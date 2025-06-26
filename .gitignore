@@ -1,0 +1,4 @@
+*.log
+/vendor
+*.zip
+.DS_Store
